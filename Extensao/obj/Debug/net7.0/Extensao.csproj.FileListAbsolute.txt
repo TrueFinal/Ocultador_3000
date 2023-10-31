@@ -1,0 +1,14 @@
+C:\Users\Oobj\Desktop\Extensao\bin\Debug\net7.0\Extensao.exe
+C:\Users\Oobj\Desktop\Extensao\bin\Debug\net7.0\Extensao.deps.json
+C:\Users\Oobj\Desktop\Extensao\bin\Debug\net7.0\Extensao.runtimeconfig.json
+C:\Users\Oobj\Desktop\Extensao\bin\Debug\net7.0\Extensao.dll
+C:\Users\Oobj\Desktop\Extensao\bin\Debug\net7.0\Extensao.pdb
+C:\Users\Oobj\Desktop\Extensao\obj\Debug\net7.0\Extensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oobj\Desktop\Extensao\obj\Debug\net7.0\Extensao.AssemblyInfoInputs.cache
+C:\Users\Oobj\Desktop\Extensao\obj\Debug\net7.0\Extensao.AssemblyInfo.cs
+C:\Users\Oobj\Desktop\Extensao\obj\Debug\net7.0\Extensao.csproj.CoreCompileInputs.cache
+C:\Users\Oobj\Desktop\Extensao\obj\Debug\net7.0\Extensao.dll
+C:\Users\Oobj\Desktop\Extensao\obj\Debug\net7.0\refint\Extensao.dll
+C:\Users\Oobj\Desktop\Extensao\obj\Debug\net7.0\Extensao.pdb
+C:\Users\Oobj\Desktop\Extensao\obj\Debug\net7.0\Extensao.genruntimeconfig.cache
+C:\Users\Oobj\Desktop\Extensao\obj\Debug\net7.0\ref\Extensao.dll

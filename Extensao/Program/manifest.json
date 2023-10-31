@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Ocultador URL 3000",
+  "version": "10.1",
+  "description": "Descrição da sua extensão",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.js",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
